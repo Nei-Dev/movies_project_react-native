@@ -1,0 +1,1 @@
+Movies app using The Movie DB API and React Native
